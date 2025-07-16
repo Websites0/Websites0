@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm মো মাহফিজ কাইফ (Hemel)</h1>
+<h1 align="center">Hi 👋, I'm Hemel </h1>
 <h3 align="center">A passionate Front-End Developer & Programmer</h3>
 
 <p align="center">

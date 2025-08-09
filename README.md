@@ -30,21 +30,22 @@
 
 <div align="center">
 
-<!-- Dark Mode Compatible GitHub Stats -->
+<!-- Light-mode GitHub Stats (forced) -->
 <a href="https://github.com/Websites0">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Websites0&show_icons=true&theme=default&hide_border=false&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Websites0&show_icons=true&theme=light&hide_border=false" />
 </a>
 
 <a href="https://github.com/Websites0">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websites0&layout=compact&theme=default&hide_border=false&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websites0&layout=compact&theme=light&hide_border=false" />
 </a>
 
-<!-- Streak Stats -->
+<!-- Streak Stats (light theme) -->
 <a href="https://github.com/Websites0">
-  <img height="160" src="https://streak-stats.demolab.com/?user=Websites0&theme=default&hide_border=false&background=FFFFFF00" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Websites0&theme=light&hide_border=false" />
 </a>
 
 </div>
+
 
 ---
 

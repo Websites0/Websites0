@@ -74,9 +74,13 @@
 
 ---
 
-### 🖥️ Adaptive for Light/Dark Mode
 
-> All widgets and cards above support **light and dark mode** automatically based on your system settings.
+### 🌐 Real-Time Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websites0&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="Top Languages" />
+</p>
+
 
 ---
 

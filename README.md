@@ -35,9 +35,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Websites0&show_icons=true&theme=light&hide_border=false" />
 </a>
 
-<a href="https://github.com/Websites0">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websites0&layout=compact&theme=light&hide_border=false" />
-</a>
 
 <!-- Streak Stats (light theme) -->
 <a href="https://github.com/Websites0">

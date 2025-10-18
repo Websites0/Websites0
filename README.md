@@ -24,6 +24,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 
 ---
 

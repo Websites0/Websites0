@@ -10,7 +10,7 @@
 ### 💫 About Me
 
 - 🔭 I’m currently looking for a job as a **Front-End Developer**
-- 🌱 I’m improving my **C++, C, HTML, CSS, JavaScript, React** skills
+- 🌱 I’m improving my **C++, C, HTML, CSS, JavaScript, React, Tailwind CSS** skills
 - 💡 I love creative thinking & solving real-world problems
 - 📚 I enjoy **mathematics** and programming logic
 - 🤝 I’m open to collaborate on GitHub-based projects

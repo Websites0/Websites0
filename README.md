@@ -1,89 +1,94 @@
-<h1 align="center">Hi 👋, I'm Hemel</h1>
-<h3 align="center">A passionate Front-End Developer & Programmer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Websites0&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Websites0?style=social" alt="Followers"/>
-</p>
+  <h1>Hi there, I'm Hemel 👋</h1>
+  <h3>Front-End Developer | Creative Programmer | Math Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&lines=I+love+Problem+Solving;Creative+Thinker+%26+Math+Enthusiast;Frontend+Developer+%26+Coder;Always+learning+new+things" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Modern+Web+Interfaces;Solving+Complex+Algorithms;Crafting+Responsive+Designs;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
 
----
+  <br/>
 
-### 💫 About Me
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Websites0&style=flat-square&color=blue" alt="Profile views"/>
+    <a href="https://github.com/Websites0?tab=followers">
+      <img src="https://img.shields.io/github/followers/Websites0?style=flat-square&logo=github&label=Followers&color=blue" alt="Followers"/>
+    </a>
+  </p>
 
-- 🔭 I’m currently looking for a job as a **Front-End Developer**
-- 🌱 I’m actively improving my skills in **React, Tailwind CSS, and C++**
-- 💡 I love creative thinking & solving real-world problems
-- 📚 I enjoy **mathematics** and programming logic
-- 🤝 I’m open to collaborating on GitHub-based projects
+  <p>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/your-profile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-C-333?style=for-the-badge&logo=c" alt="C">
-  <img src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++">
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react" alt="React">
-  <br>
-  <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS">
-</p>
+</div>
 
 ---
 
-### 🚀 My Best Projects
+### 👨‍💻 About Me
 
-| Project | Description | Tech Stack |
+I am a passionate **Front-End Developer** with a strong foundation in mathematics and logic. I specialize in building responsive, user-friendly websites using **React** and **Tailwind CSS**. I am currently open to new opportunities where I can contribute to solving real-world problems through code.
+
+- 💼 **Work:** Actively looking for **Front-End Developer** roles.
+- 🔭 **Current Focus:** Deepening my knowledge in **React.js** and **System Design**.
+- 🧠 **Philosophy:** "Code is poetry, logic is the structure."
+- ⚡ **Fun Fact:** I combine mathematical logic with creative design.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+**Frontend & Frameworks**<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+**Tools & Version Control**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Portfolio_3](https://github.com/Websites0/Portfolio_3)** | My latest portfolio showcasing my frontend skills. | `React` `Tailwind` |
-| **[Portfolio_2](https://github.com/Websites0/Portfolio_2)** | A previous iteration of my personal portfolio. | `HTML` `CSS` `JS` |
-| **[Personal Website](https://github.com/Websites0/my-personal-website)** | My personal landing page and blog. | `HTML` `CSS` |
+| **[Portfolio_3](https://github.com/Websites0/Portfolio_3)** | A modern, fully responsive portfolio designed to showcase projects with smooth animations. | `React` `Tailwind` |
+| **[Portfolio_2](https://github.com/Websites0/Portfolio_2)** | My previous portfolio focusing on clean HTML structures and CSS styling techniques. | `HTML` `CSS` `JS` |
+| **[Personal Website](https://github.com/Websites0/my-personal-website)** | A personal landing page serving as a hub for my blog and thoughts. | `HTML` `CSS` |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/Websites0">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Websites0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Websites0">
-    <img height="160" src="https://streak-stats.demolab.com/?user=Websites0&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Websites0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com/?user=Websites0&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="streak graph" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websites0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websites0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
 
-### 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Websites0&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Websites0&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Websites0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center"><i>Thanks for visiting my profile! ⭐</i></p>

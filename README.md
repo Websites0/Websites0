@@ -91,9 +91,7 @@ I am a passionate **Front-End Developer** with a strong foundation in **Mathemat
 <img src="https://readme-jokes.vercel.app/api?theme=midnight-purple" width="500" alt="Dev Joke" />
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Websites0&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Websites0's Trophies" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Websites0&theme=radical" alt="Websites0's Profile Details" />
 <br/><br/>
 
 <table>

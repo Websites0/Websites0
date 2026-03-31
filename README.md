@@ -90,17 +90,17 @@ I am a passionate **Front-End Developer** with a strong foundation in **Mathemat
 <a href="https://github.com/Websites0/my-personal-website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=my-personal-website&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Personal Website" />
 </a>
-<a href="https://github.com/Websites0/CV_content_writer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=CV_content_writer&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="CV Content Writer" />
+<a href="https://github.com/Websites0/Kaif_Survey_and_Consulting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=Kaif_Survey_and_Consulting&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Kaif Survey and Consulting" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Websites0/Calculator-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=Calculator-&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Calculator" />
+<a href="https://github.com/Websites0/Company-Demo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=Company-Demo-1&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Company Demo 1" />
 </a>
-<a href="https://github.com/Websites0/Digital-Book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=Digital-Book&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Digital Book" />
+<a href="https://github.com/Websites0/routine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=routine&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Routine" />
 </a>
 
 </div>

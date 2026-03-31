@@ -76,11 +76,34 @@ I am a passionate **Front-End Developer** with a strong foundation in **Mathemat
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **[Portfolio_3](https://github.com/Websites0/Portfolio_3)** | Modern, responsive portfolio with smooth animations. | `React` `Tailwind` | [🔎 View](https://github.com/Websites0/Portfolio_3) |
-| **[Portfolio_2](https://github.com/Websites0/Portfolio_2)** | Clean HTML structure with pure CSS styling. | `HTML` `CSS` `JS` | [🔎 View](https://github.com/Websites0/Portfolio_2) |
-| **[Personal Website](https://github.com/Websites0/my-personal-website)** | A central hub for my thoughts and blog. | `HTML` `CSS` | [🔎 View](https://github.com/Websites0/my-personal-website) |
+<div align="center">
+
+<a href="https://github.com/Websites0/Portfolio_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=Portfolio_3&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Portfolio 3" />
+</a>
+<a href="https://github.com/Websites0/Portfolio_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=Portfolio_2&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Portfolio 2" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Websites0/my-personal-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=my-personal-website&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Personal Website" />
+</a>
+<a href="https://github.com/Websites0/CV_content_writer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=CV_content_writer&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="CV Content Writer" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Websites0/Calculator-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=Calculator-&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Calculator" />
+</a>
+<a href="https://github.com/Websites0/Digital-Book">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Websites0&repo=Digital-Book&theme=radical&bg_color=0d1117&hide_border=true&title_color=F72585" alt="Digital Book" />
+</a>
+
+</div>
 
 ---
 
